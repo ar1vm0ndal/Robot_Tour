@@ -5,6 +5,11 @@ Pathfinding is a reference file that utilizes AStarSearch in Arduino C.
 https://github.com/user-attachments/assets/fafaef9a-a0b1-409e-bc36-818b4c94df05
 
 
+![IMG_9363](https://github.com/user-attachments/assets/fefbb1aa-4b25-45e1-a863-3f98de450220)
 
-https://github.com/user-attachments/assets/5b99e6fc-1a9e-474f-8136-1eac9d35a2a2
+
+
+
+https://github.com/user-attachments/assets/f06e09a8-b5e6-40f3-8ec0-c85f8ba2a2ba
+
 
