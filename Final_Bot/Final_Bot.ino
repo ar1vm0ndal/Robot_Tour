@@ -42,13 +42,13 @@ int endPoints[] = { startNode, G1,G2,G3, G4,G5, endNode };
 #define speedPinLB 12         //  Rear Wheel PWM pin connect Model-Y M_A ENB
 
 //IR Sensor for Angular Velocity
-int encoder1 = 18;
-int encoder2 = 19;
+const int encoder1 = 18;
+const int encoder2 = 19;
 
-double eCount = 0;
-double eCount2 = 0;
-double dT = 0;
-double dT2 = 0;
+volatile double eCount = 0;
+volatile double eCount2 = 0;
+volatile double dT = 0;
+volatile double dT2 = 0;
 
 void count() {
   eCount++;
